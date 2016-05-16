@@ -1,0 +1,20 @@
+div {
+  display: inline;
+  padding: 1em;
+}
+
+#character-counter {
+  margin: 0.5em;
+}
+
+.green {
+  color: #4CAF50;
+}
+
+.gold {
+  color: #FFEB3B;
+}
+
+.red {
+  color: #F44336;
+}
